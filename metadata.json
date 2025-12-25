@@ -1,0 +1,7 @@
+{
+  "name": "SmartPOS - 智能雲端收銀系統",
+  "description": "一個全功能的智能收銀系統，支持即時訂單管理、成本利潤追蹤及 AI 銷售分析。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
